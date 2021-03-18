@@ -1,0 +1,10 @@
+{
+	"name" : "koeshiro/csv",
+	"description" : "Csv reader with auto detect csv file settings",
+	"type" : "library",
+	"authors" : [{
+			"name" : "koeshiro",
+			"email" : "koeshiro@yandex.ru"
+		}
+	]
+}
